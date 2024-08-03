@@ -1,0 +1,4 @@
+D:\Div-B-56\Console Application\BasicAppDemo\BasicAppDemo\bin\Debug\BasicAppDemo.exe
+D:\Div-B-56\Console Application\BasicAppDemo\BasicAppDemo\bin\Debug\BasicAppDemo.pdb
+D:\Div-B-56\Console Application\BasicAppDemo\BasicAppDemo\obj\x86\Debug\BasicAppDemo.exe
+D:\Div-B-56\Console Application\BasicAppDemo\BasicAppDemo\obj\x86\Debug\BasicAppDemo.pdb
