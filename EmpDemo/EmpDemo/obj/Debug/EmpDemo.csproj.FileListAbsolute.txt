@@ -1,0 +1,7 @@
+D:\Div-B-56\Console Application\EmpDemo\EmpDemo\bin\Debug\EmpDemo.exe.config
+D:\Div-B-56\Console Application\EmpDemo\EmpDemo\bin\Debug\EmpDemo.exe
+D:\Div-B-56\Console Application\EmpDemo\EmpDemo\bin\Debug\EmpDemo.pdb
+D:\Div-B-56\Console Application\EmpDemo\EmpDemo\obj\Debug\EmpDemo.csproj.AssemblyReference.cache
+D:\Div-B-56\Console Application\EmpDemo\EmpDemo\obj\Debug\EmpDemo.csproj.CoreCompileInputs.cache
+D:\Div-B-56\Console Application\EmpDemo\EmpDemo\obj\Debug\EmpDemo.exe
+D:\Div-B-56\Console Application\EmpDemo\EmpDemo\obj\Debug\EmpDemo.pdb
